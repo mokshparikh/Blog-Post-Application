@@ -3,7 +3,9 @@ import PostCard from './PostCard';
 
 const Homepage = () => {
   const [posts, setPosts] = useState([]);
+
   const [searchQuery, setSearchQuery] = useState('');
+  
   const [currentPage, setCurrentPage] = useState(1);
   const postsPerPage = 9;
 

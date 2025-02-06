@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "title": "His mother had always taught him",
+    "body": "His mother had always taught him not to ever think of himself as better than others. He'd tried to live by this motto. He never looked down on those who were less fortunate or who had less money than him. But the stupidity of the group of people he was talking to made him change his mind.",
+    "tags": ["history", "american", "crime"],
+    "reactions": {
+      "likes": 192,
+      "dislikes": 25
+    },
+    "views": 305,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 2,
+    "title": "The journey to the mountains",
+    "body": "He packed his bag and started the journey to the mountains. The serenity and peace he hoped to find were still miles away, but his determination was steadfast.",
+    "tags": ["travel", "adventure", "nature"],
+    "reactions": {
+      "likes": 85,
+      "dislikes": 10
+    },
+    "views": 192,
+    "userId": 122,
+    "author": {
+      "id": 122,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 3,
+    "title": "The dream of freedom",
+    "body": "He could always hear the wind whispering through the trees. It was the only true sound of freedom he could relate to. Every day, he longed for a life where he could be as free as that wind.",
+    "tags": ["freedom", "philosophy", "dream"],
+    "reactions": {
+      "likes": 210,
+      "dislikes": 30
+    },
+    "views": 300,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Lost in the city lights",
+    "body": "The city was alive at night, but he felt more lost than ever. The lights could not fill the emptiness inside him as he walked through the crowded streets.",
+    "tags": ["city", "loneliness", "night"],
+    "reactions": {
+      "likes": 180,
+      "dislikes": 40
+    },
+    "views": 250,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 5,
+    "title": "The call of the ocean",
+    "body": "Every wave that crashed against the shore seemed to be calling to him. The vastness of the ocean was both terrifying and mesmerizing. He had to see it for himself.",
+    "tags": ["ocean", "travel", "adventure"],
+    "reactions": {
+      "likes": 120,
+      "dislikes": 15
+    },
+    "views": 220,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 6,
+    "title": "A moment of peace",
+    "body": "In the chaos of life, he found solace in a moment of stillness. Sometimes, a few seconds of complete peace could change everything.",
+    "tags": ["peace", "mindfulness", "calm"],
+    "reactions": {
+      "likes": 200,
+      "dislikes": 5
+    },
+    "views": 280,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 7,
+    "title": "The thrill of the chase",
+    "body": "He had always been a hunter at heart. It wasn't the kill that excited him, but the thrill of the chase, the feeling of being truly alive.",
+    "tags": ["adventure", "wild", "pursuit"],
+    "reactions": {
+      "likes": 150,
+      "dislikes": 20
+    },
+    "views": 190,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Through the lens of a camera",
+    "body": "Every picture told a story. Through his camera, he captured the moments others often overlooked. It wasn't just photography; it was his way of connecting with the world.",
+    "tags": ["photography", "art", "storytelling"],
+    "reactions": {
+      "likes": 220,
+      "dislikes": 35
+    },
+    "views": 320,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 9,
+    "title": "A fleeting moment of happiness",
+    "body": "Happiness, he realized, wasn't a destination but a fleeting moment. It came unexpectedly, like the sunrise at dawn, and disappeared just as quickly.",
+    "tags": ["happiness", "life", "reflection"],
+    "reactions": {
+      "likes": 170,
+      "dislikes": 10
+    },
+    "views": 240,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 10,
+    "title": "The silence of the forest",
+    "body": "The forest was silent, almost eerily so. But in that silence, he felt a deep connection with nature that words could never express.",
+    "tags": ["nature", "peace", "reflection"],
+    "reactions": {
+      "likes": 230,
+      "dislikes": 5
+    },
+    "views": 275,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 11,
+    "title": "A new beginning",
+    "body": "Every sunrise brought with it the possibility of a new beginning. It was a reminder that no matter how hard yesterday was, today was a fresh start.",
+    "tags": ["hope", "new beginnings", "life"],
+    "reactions": {
+      "likes": 95,
+      "dislikes": 12
+    },
+    "views": 155,
+    "userId": 122,
+    "author": {
+      "id": 122,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 12,
+    "title": "A walk through the countryside",
+    "body": "The countryside was quiet, peaceful, and full of life. Every step he took was a reminder of the simple beauty that often goes unnoticed.",
+    "tags": ["nature", "peace", "countryside"],
+    "reactions": {
+      "likes": 130,
+      "dislikes": 18
+    },
+    "views": 210,
+    "userId": 122,
+    "author": {
+      "id": 122,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 13,
+    "title": "An unexpected adventure",
+    "body": "What started as an ordinary day soon turned into an unexpected adventure. Sometimes, life had a funny way of surprising you when you least expected it.",
+    "tags": ["adventure", "surprise", "life"],
+    "reactions": {
+      "likes": 110,
+      "dislikes": 9
+    },
+    "views": 180,
+    "userId": 122,
+    "author": {
+      "id": 122,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 14,
+    "title": "The beauty of simplicity",
+    "body": "Sometimes, the most beautiful things in life are the simplest. He’d learned that happiness didn’t have to come from grand gestures, but from appreciating the little things.",
+    "tags": ["simplicity", "happiness", "life"],
+    "reactions": {
+      "likes": 145,
+      "dislikes": 7
+    },
+    "views": 215,
+    "userId": 122,
+    "author": {
+      "id": 122,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 15,
+    "title": "The quiet of the night",
+    "body": "The night was quiet, the kind of quiet that made you think. As the stars twinkled above, he realized how small and insignificant his problems were in the grand scheme of the universe.",
+    "tags": ["night", "peace", "reflection"],
+    "reactions": {
+      "likes": 120,
+      "dislikes": 11
+    },
+    "views": 190,
+    "userId": 122,
+    "author": {
+      "id": 122,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 16,
+    "title": "A whisper in the wind",
+    "body": "The wind whispered secrets only the trees could understand. He closed his eyes, letting the breeze guide his thoughts, feeling the connection to nature.",
+    "tags": ["nature", "whispers", "peace"],
+    "reactions": {
+      "likes": 155,
+      "dislikes": 10
+    },
+    "views": 230,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Chasing the sunset",
+    "body": "As the sun dipped below the horizon, he felt a sense of urgency. The day was ending, but he was in no hurry to leave the beauty of the moment.",
+    "tags": ["sunset", "chase", "nature"],
+    "reactions": {
+      "likes": 160,
+      "dislikes": 20
+    },
+    "views": 260,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 18,
+    "title": "In the quiet of the mountains",
+    "body": "The mountains stood tall and silent, their ancient presence filled him with a sense of awe. The quiet was profound, offering a refuge from the noise of the world.",
+    "tags": ["mountains", "peace", "reflection"],
+    "reactions": {
+      "likes": 180,
+      "dislikes": 15
+    },
+    "views": 300,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 19,
+    "title": "A glance into the past",
+    "body": "He stood in front of the old house, memories flooding back. Time had passed, but some things, like the old oak tree, remained unchanged.",
+    "tags": ["nostalgia", "memory", "history"],
+    "reactions": {
+      "likes": 175,
+      "dislikes": 25
+    },
+    "views": 290,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 20,
+    "title": "A starry night",
+    "body": "The night sky was alive with stars, their light offering a rare sense of wonder. He felt as though the universe was watching over him.",
+    "tags": ["stars", "night", "wonder"],
+    "reactions": {
+      "likes": 195,
+      "dislikes": 18
+    },
+    "views": 280,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 21,
+    "title": "The beauty of solitude",
+    "body": "Solitude wasn't something to fear. It was a place to reconnect with oneself, to find peace in being alone with your thoughts.",
+    "tags": ["solitude", "peace", "reflection"],
+    "reactions": {
+      "likes": 160,
+      "dislikes": 12
+    },
+    "views": 250,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 22,
+    "title": "The thrill of the unknown",
+    "body": "Stepping into the unknown was always the most thrilling part of any journey. The uncertainty was what made it exciting.",
+    "tags": ["adventure", "risk", "exploration"],
+    "reactions": {
+      "likes": 200,
+      "dislikes": 30
+    },
+    "views": 330,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 23,
+    "title": "Through the mist",
+    "body": "The mist rolled in, obscuring everything beyond a few feet. But instead of fear, he felt a sense of calm. There was beauty in not knowing what lay ahead.",
+    "tags": ["mist", "nature", "mystery"],
+    "reactions": {
+      "likes": 215,
+      "dislikes": 25
+    },
+    "views": 350,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 31,
+    "title": "The sound of the city",
+    "body": "The city never slept. There was a constant hum, a pulse that kept the streets alive with energy. But in the quiet corners, you could find peace amidst the chaos.",
+    "tags": ["city", "life", "energy"],
+    "reactions": {
+      "likes": 120,
+      "dislikes": 15
+    },
+    "views": 220,
+    "userId": 123,
+    "author": {
+      "id": 123,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 32,
+    "title": "A walk in the rain",
+    "body": "The rain poured down in sheets, but instead of retreating indoors, she welcomed it. The cool droplets on her skin made her feel alive, as if the rain was washing away her worries.",
+    "tags": ["rain", "walk", "freedom"],
+    "reactions": {
+      "likes": 135,
+      "dislikes": 10
+    },
+    "views": 250,
+    "userId": 123,
+    "author": {
+      "id": 123,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 33,
+    "title": "The first step",
+    "body": "Every journey begins with a single step. She was nervous, unsure of what lay ahead, but she knew that moving forward was the only choice she had.",
+    "tags": ["journey", "courage", "new beginnings"],
+    "reactions": {
+      "likes": 150,
+      "dislikes": 12
+    },
+    "views": 270,
+    "userId": 123,
+    "author": {
+      "id": 123,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 34,
+    "title": "The stillness of the forest",
+    "body": "In the forest, there was a quiet that spoke louder than words. The trees whispered secrets, and the earth beneath her feet seemed to be alive with ancient stories.",
+    "tags": ["forest", "stillness", "nature"],
+    "reactions": {
+      "likes": 160,
+      "dislikes": 8
+    },
+    "views": 300,
+    "userId": 123,
+    "author": {
+      "id": 123,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 35,
+    "title": "The warmth of a cup of tea",
+    "body": "As the tea steeped, she inhaled the warmth and fragrance, letting the soothing aroma calm her mind. Sometimes, all it took was a moment of stillness to feel at peace.",
+    "tags": ["tea", "comfort", "peace"],
+    "reactions": {
+      "likes": 145,
+      "dislikes": 9
+    },
+    "views": 280,
+    "userId": 123,
+    "author": {
+      "id": 123,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 36,
+    "title": "The journey of a thousand miles",
+    "body": "She had heard the saying a thousand times, but only now did it truly resonate with her. It wasn’t the destination that mattered, but the lessons learned along the way.",
+    "tags": ["journey", "lessons", "growth"],
+    "reactions": {
+      "likes": 155,
+      "dislikes": 14
+    },
+    "views": 320,
+    "userId": 123,
+    "author": {
+      "id": 123,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 37,
+    "title": "A moment of introspection",
+    "body": "In the quiet of the evening, she sat by the window, contemplating her life. The world outside seemed so vast, and yet, all the answers she needed were within her.",
+    "tags": ["introspection", "reflection", "peace"],
+    "reactions": {
+      "likes": 170,
+      "dislikes": 13
+    },
+    "views": 330,
+    "userId": 123,
+    "author": {
+      "id": 123,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 38,
+    "title": "The colors of the sunset",
+    "body": "As the sun set, the sky was painted in hues of pink, orange, and gold. It reminded her that no matter how dark the night seemed, there was always beauty to be found.",
+    "tags": ["sunset", "colors", "hope"],
+    "reactions": {
+      "likes": 180,
+      "dislikes": 18
+    },
+    "views": 350,
+    "userId": 123,
+    "author": {
+      "id": 123,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 39,
+    "title": "The beauty of imperfection",
+    "body": "Perfection wasn’t everything. Sometimes, the most beautiful things in life were the flawed, the broken, and the messy. It was in imperfection that we found our true selves.",
+    "tags": ["imperfection", "beauty", "life"],
+    "reactions": {
+      "likes": 190,
+      "dislikes": 20
+    },
+    "views": 380,
+    "userId": 123,
+    "author": {
+      "id": 123,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 40,
+    "title": "A quiet morning",
+    "body": "The morning was still, with only the sound of birds singing in the trees. She took a deep breath, feeling the calmness of the day seep into her bones.",
+    "tags": ["morning", "peace", "nature"],
+    "reactions": {
+      "likes": 200,
+      "dislikes": 25
+    },
+    "views": 400,
+    "userId": 123,
+    "author": {
+      "id": 123,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 41,
+    "title": "The crossroads",
+    "body": "Sometimes, life presented you with crossroads. Each path was uncertain, but she knew that whichever direction she chose, it would shape her future in ways she couldn’t yet understand.",
+    "tags": ["choices", "life", "future"],
+    "reactions": {
+      "likes": 125,
+      "dislikes": 10
+    },
+    "views": 210,
+    "userId": 124,
+    "author": {
+      "id": 124,
+      "name": "Michael Green",
+      "email": "michaelgreen@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/9a317b24c6f032c7b50d7f135e3cd937?s=250"
+    }
+  },
+  {
+    "id": 42,
+    "title": "The power of a smile",
+    "body": "A simple smile could change someone’s day. He had learned that sometimes the smallest gestures had the biggest impact.",
+    "tags": ["smile", "kindness", "connection"],
+    "reactions": {
+      "likes": 140,
+      "dislikes": 15
+    },
+    "views": 230,
+    "userId": 124,
+    "author": {
+      "id": 124,
+      "name": "Michael Green",
+      "email": "michaelgreen@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/9a317b24c6f032c7b50d7f135e3cd937?s=250"
+    }
+  },
+  {
+    "id": 43,
+    "title": "The strength of vulnerability",
+    "body": "He had always thought strength was about resilience, but he learned that true strength came from vulnerability, from allowing yourself to be seen.",
+    "tags": ["vulnerability", "strength", "emotions"],
+    "reactions": {
+      "likes": 160,
+      "dislikes": 20
+    },
+    "views": 250,
+    "userId": 124,
+    "author": {
+      "id": 124,
+      "name": "Michael Green",
+      "email": "michaelgreen@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/9a317b24c6f032c7b50d7f135e3cd937?s=250"
+    }
+  },
+  {
+    "id": 44,
+    "title": "The joy of learning",
+    "body": "Learning wasn’t a chore, it was a privilege. He found joy in expanding his knowledge and understanding the world in deeper ways.",
+    "tags": ["learning", "joy", "growth"],
+    "reactions": {
+      "likes": 175,
+      "dislikes": 12
+    },
+    "views": 270,
+    "userId": 124,
+    "author": {
+      "id": 124,
+      "name": "Michael Green",
+      "email": "michaelgreen@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/9a317b24c6f032c7b50d7f135e3cd937?s=250"
+    }
+  },
+  {
+    "id": 45,
+    "title": "The thrill of discovery",
+    "body": "There was something exhilarating about discovering something new, whether it was a hidden gem in the city or a new idea that sparked his curiosity.",
+    "tags": ["discovery", "curiosity", "excitement"],
+    "reactions": {
+      "likes": 190,
+      "dislikes": 18
+    },
+    "views": 280,
+    "userId": 124,
+    "author": {
+      "id": 124,
+      "name": "Michael Green",
+      "email": "michaelgreen@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/9a317b24c6f032c7b50d7f135e3cd937?s=250"
+    }
+  },
+  {
+    "id": 46,
+    "title": "The value of time",
+    "body": "Time was the most precious gift. He had learned to appreciate each moment, to live fully in the present, knowing that time was never guaranteed.",
+    "tags": ["time", "life", "value"],
+    "reactions": {
+      "likes": 210,
+      "dislikes": 25
+    },
+    "views": 300,
+    "userId": 124,
+    "author": {
+      "id": 124,
+      "name": "Michael Green",
+      "email": "michaelgreen@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/9a317b24c6f032c7b50d7f135e3cd937?s=250"
+    }
+  },
+  {
+    "id": 47,
+    "title": "The beauty of solitude",
+    "body": "Solitude wasn’t loneliness. It was a chance to reconnect with himself, to recharge and find clarity in the quiet moments.",
+    "tags": ["solitude", "clarity", "peace"],
+    "reactions": {
+      "likes": 225,
+      "dislikes": 30
+    },
+    "views": 320,
+    "userId": 124,
+    "author": {
+      "id": 124,
+      "name": "Michael Green",
+      "email": "michaelgreen@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/9a317b24c6f032c7b50d7f135e3cd937?s=250"
+    }
+  },
+  {
+    "id": 48,
+    "title": "The beauty of change",
+    "body": "Change could be frightening, but he had learned that it was the only constant. Every change led to new opportunities and experiences.",
+    "tags": ["change", "growth", "life"],
+    "reactions": {
+      "likes": 240,
+      "dislikes": 35
+    },
+    "views": 350,
+    "userId": 124,
+    "author": {
+      "id": 124,
+      "name": "Michael Green",
+      "email": "michaelgreen@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/9a317b24c6f032c7b50d7f135e3cd937?s=250"
+    }
+  },
+  {
+    "id": 49,
+    "title": "The simplicity of happiness",
+    "body": "Happiness wasn’t found in grand achievements. It was found in small moments, like a cup of coffee in the morning or the sound of laughter with friends.",
+    "tags": ["happiness", "simplicity", "life"],
+    "reactions": {
+      "likes": 255,
+      "dislikes": 40
+    },
+    "views": 380,
+    "userId": 124,
+    "author": {
+      "id": 124,
+      "name": "Michael Green",
+      "email": "michaelgreen@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/9a317b24c6f032c7b50d7f135e3cd937?s=250"
+    }
+  },
+  {
+    "id": 50,
+    "title": "The pursuit of passion",
+    "body": "He had found that the most fulfilling life was one driven by passion, not success. When you followed what truly excited you, everything else fell into place.",
+    "tags": ["passion", "life", "purpose"],
+    "reactions": {
+      "likes": 265,
+      "dislikes": 50
+    },
+    "views": 400,
+    "userId": 124,
+    "author": {
+      "id": 124,
+      "name": "Michael Green",
+      "email": "michaelgreen@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/9a317b24c6f032c7b50d7f135e3cd937?s=250"
+    }
+  },
+  {
+    "id": 24,
+    "title": "The sound of silence",
+    "body": "In the middle of the forest, there was a profound silence. It wasn’t empty, but full of the quiet hum of nature’s heartbeat.",
+    "tags": ["silence", "nature", "peace"],
+    "reactions": {
+      "likes": 180,
+      "dislikes": 22
+    },
+    "views": 260,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 25,
+    "title": "A new perspective",
+    "body": "Sometimes, all it took to see the world differently was to change your viewpoint. He realized that life wasn't about what you saw, but how you chose to see it.",
+    "tags": ["perspective", "life", "change"],
+    "reactions": {
+      "likes": 230,
+      "dislikes": 28
+    },
+    "views": 315,
+    "userId": 121,
+    "author": {
+      "id": 121,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 26,
+    "title": "The art of traveling light",
+    "body": "He had learned that carrying less allowed him to experience more. Traveling light wasn’t just about packing less, it was about being free from unnecessary burdens.",
+    "tags": ["travel", "minimalism", "freedom"],
+    "reactions": {
+      "likes": 135,
+      "dislikes": 17
+    },
+    "views": 220,
+    "userId": 122,
+    "author": {
+      "id": 122,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 27,
+    "title": "Finding your true self",
+    "body": "The journey to finding your true self is not a destination but a process. Every step forward, no matter how small, brought her closer to the person she was meant to be.",
+    "tags": ["self-discovery", "journey", "growth"],
+    "reactions": {
+      "likes": 145,
+      "dislikes": 12
+    },
+    "views": 230,
+    "userId": 122,
+    "author": {
+      "id": 122,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 28,
+    "title": "A moment of clarity",
+    "body": "In the midst of chaos, there was a single moment of clarity. She realized that peace wasn't found in silence, but in understanding the noise around her.",
+    "tags": ["clarity", "peace", "mindfulness"],
+    "reactions": {
+      "likes": 125,
+      "dislikes": 14
+    },
+    "views": 210,
+    "userId": 122,
+    "author": {
+      "id": 122,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 29,
+    "title": "The magic of a new dawn",
+    "body": "There was something magical about the first light of day. She stood still, watching the world wake up, feeling as though she too was being reborn.",
+    "tags": ["dawn", "new beginnings", "magic"],
+    "reactions": {
+      "likes": 160,
+      "dislikes": 20
+    },
+    "views": 250,
+    "userId": 122,
+    "author": {
+      "id": 122,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  },
+  {
+    "id": 30,
+    "title": "An evening to remember",
+    "body": "The evening was perfect. The sky was painted in shades of pink and orange, and the air was filled with the promise of something wonderful to come.",
+    "tags": ["evening", "memories", "nature"],
+    "reactions": {
+      "likes": 170,
+      "dislikes": 22
+    },
+    "views": 280,
+    "userId": 122,
+    "author": {
+      "id": 122,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "profilePicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+    }
+  }
+]

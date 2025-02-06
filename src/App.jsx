@@ -1,11 +1,11 @@
 import './App.css'
-import {homepage} from './component/homepage.js'
+import Homepage from './component/Homepage'
 
 export default function App() {
   return (
     <main>
-      <h1>Blog Post Application</h1>
-   
+      <Homepage />
     </main>
   )
 }
+
